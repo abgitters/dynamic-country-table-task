@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dynamic-country-table-task/static/css/main.073c9b0a.css",
+    "main.js": "/dynamic-country-table-task/static/js/main.594e6e29.js",
+    "static/js/787.94c38b15.chunk.js": "/dynamic-country-table-task/static/js/787.94c38b15.chunk.js",
+    "index.html": "/dynamic-country-table-task/index.html",
+    "main.073c9b0a.css.map": "/dynamic-country-table-task/static/css/main.073c9b0a.css.map",
+    "main.594e6e29.js.map": "/dynamic-country-table-task/static/js/main.594e6e29.js.map",
+    "787.94c38b15.chunk.js.map": "/dynamic-country-table-task/static/js/787.94c38b15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.594e6e29.js"
+  ]
+}
